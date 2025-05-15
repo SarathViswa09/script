@@ -1,6 +1,6 @@
 #!/bin/bash
 
-REPO_URL="git@github.com:SarathViswa09/aodt.git"
+REPO_URL="https://github.com/SarathViswa09/aodt.git"
 CLONE_DIR="/tmp/repo_clone"
 
 # set path to adot_sim
